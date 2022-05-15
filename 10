@@ -1,0 +1,6 @@
+import math 
+r = int(input("Введите радиус"))
+s = math.pi*r**2
+v = (4/3)*math.pi*r**3
+print ("S круга =", s)
+print ("V шара =", v)
